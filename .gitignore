@@ -1,0 +1,16 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets and API keys
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
